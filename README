@@ -4,3 +4,7 @@
 
 Ce paragraphe vient en complément du sous titre.
 
+## git show
+
+Une commande spéciale pour analyser un commit précis.
+
