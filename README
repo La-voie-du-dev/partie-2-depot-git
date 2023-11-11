@@ -1,10 +1,10 @@
 # Projet Git
 
-## Sous titre pour git diff
+# Sous titre pour git diff
 
 Ce paragraphe vient en complément du sous titre.
 
-## git show
+# git show
 
 Une commande spéciale pour analyser un commit précis.
 
