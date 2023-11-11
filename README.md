@@ -4,7 +4,6 @@
 
 Ce paragraphe vient en complément du sous titre.
 
-# git show
+# Commande git branch
 
-Une commande spéciale pour analyser un commit précis.
-
+Remplacement de la commande "git show" par "git branch".
