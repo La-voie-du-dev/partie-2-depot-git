@@ -8,6 +8,6 @@ Ce paragraphe vient en complément du sous titre.
 
 Remplacement de la commande "git show" par "git branch".
 
-## Licence
+# Licence
 
 Projet protégé sous copyright.
