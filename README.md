@@ -11,3 +11,7 @@ Remplacement de la commande "git show" par "git branch".
 # Licence
 
 Projet protégé sous copyright.
+
+# Contribution
+
+Voir le fichier `CONTRIBUTING.md`.
